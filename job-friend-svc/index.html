@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cover Letter Generator</title>
+</head>
+<body>
+    <h1>Cover Letter Generator</h1>
+    <form id="coverLetterForm">
+        <label for="jobDescription">Job Description:</label>
+        <input type="file" id="jobDescription" name="job_description" required><br><br>
+        
+        <label for="accomplishments">Accomplishments:</label>
+        <input type="file" id="accomplishments" name="accomplishments" required><br><br>
+        
+        <label for="coverLetterSize">Cover Letter Size:</label>
+        <select id="coverLetterSize" name="cover_letter_size" required>
+            <option value="small">Small</option>
+            <option value="large">Large</option>
+        </select><br><br>
+        
+        <label for="formality">Formality (0-1):</label>
+        <input type="number" id="formality" name="formality" min="0" max="1" step="0.1" required><br><br>
+        
+        <button type="submit">Generate Cover Letter</button>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('coverLetterForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            
+            try {
+                const response = await fetch('http://localhost:8000/generate_cover_letter', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                document.getElementById('result').innerHTML = `<h2>Generated Cover Letter:</h2><pre>${data.cover_letter}</pre>`;
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        });
+    </script>
+</body>
+</html>

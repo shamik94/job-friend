@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  job-friend-svc:
+    build:
+      context: ./job-friend-svc
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - FASTAPI_ENV=production
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+
+  job-friend-frontend:
+    build:
+      context: ./job-friend-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - job-friend-svc
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+

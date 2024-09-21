@@ -1,0 +1,56 @@
+   Shamik Mukhopadhyay
+Date of birth: 16/11/1994 Nationality: Indian Gender: Male Phone number: (+49) 17676437270 (Home) Email address: shamik161994@gmail.com LinkedIn: https://www.linkedin.com/in/shamik-mukhopadhyay
+Address: Flotwellstr 9, Mitte, 10785, Berlin, Germany (Home)
+About me:
+I am a backend developer with 5 years of experience. I have a passion for designing and building fast, scalable and resilient distributed systems. My biggest strength is my curiosity, and my ability to learn new concepts and implement them quickly.
+WORK EXPERIENCE
+01/09/2021 – CURRENT Berlin, Germany
+SOFTWARE ENGINEER II DELIVERY HERO SE
+1. Worked on the Favourites API, a multi-region system that handles requests for customer favourite restaurants at a rate of 90K RPM.
+2. Designed and led the work of syncing favourites data between clusters and into BigQuery, for example allowing data from Europe to be available in Asia for failover, and in BigQuery for analysis.
+3. This was done using Springboot, Google Pub/Sub and PostgreSQL
+4. Worked on the Swimlanes API. A multi-region system that gets all restaurants available in the user's
+location and groups them in category lanes at a rate of 200K RPM.
+5. created dashboards in DataDog to display Latency and Request information for our system. 6. Improved customer conversion rate (CVR) by 20%.
+Tech Stack: Java, Springboot, GCP, Docker, Kubernetes, Jenkins, PubSub, Dataflow, CloudSQL, Firestore, Cloudflare
+17/07/2017 – 15/07/2021 Bangalore, India
+SENIOR SOFTWARE ENGINEER TARGET CORPORATION
+1. Designed and developed micro-services and REST APIs using Java Springboot, RDBMS/NoSql databases and kafka for distributed queues.
+2. Delivered proof of concepts on technologies contributing to technological and architectural decisions 3. Learnt and successfully implemented Netflix Hollow, as only the 2nd team in Target and achieved
+high availability and required performance of 4000 req/sec
+4. Presented Hollow learnings in a tech sharing session to a bigger audience of Target and helped other
+teams integrate it in their projects
+5. Built UI web applications using ReactJS, Redux along with standard Javascript libraries
+6. Automated CI/CD pipelines using Drone, Docker and Kubernetes, hence reducing deployment time by
+50%
+7. Implemented logging through Kibana and monitoring with automated alerts for the services through
+Grafana and Prometheus, thus reduced incident count by 30% and enabled proactive actions on
+major incident types
+Tech Stack: Java, Springboot, Docker, Kubernetes, Drone, Kafka, PSQL, ReactJS
+01/07/2016 – 01/12/2016 Bangalore, India
+SOFTWARE ENGINEER INTERN MYNTRA DESIGNS PRIVATE LIMITED
+• Developed a cross-platform desktop application as a member of Systems Engineering team which provided a production-like environment on development machines using containerization.
+• Implemented UI capabilities using ReactJS, HTML and CSS.
+• Reduced dependency on AWS servers for QA testing by 25% .
+              
+ 01/05/2015 – 01/07/2015 Kolkata, India
+INTERN HEDGE QUANTS LLP
+• Developed quant models for stock market trading using Java.
+• Developed a Genetic Algorithm to select a basket of NYSE stocks having the least Portfolio Deviation. • Developed a statistical arbitrage model on NIFTY stock index using pair trading.
+EDUCATION AND TRAINING
+01/08/2013 – 01/01/2017
+BACHELOR OF ENGINEERING IN ELECTRICAL AND ELECTRONICS ENGINEERING Birla Institute of Technology and Science, Pilani
+Final grade 8.4/10 DIGITAL SKILLS
+Java Programming language SpringBoot RESTful Webservices Microservice Architecture Object- Oriented Programming Docker Kubernetes GIT (GitHub) Agile (Scrum) React/Redux
+Javascript kafka
+ADDITIONAL INFORMATION
+PROJECTS
+Brain Computer Interface and Home Automation
+• Analysed EEG waves using Digital Signal Processing and successfully detected voluntary eye blinks. • Developed an IOT system using Raspberry Pi, relays and electrical devices.
+• Integrated Brain Computer Interface (BCI) with IOT systems to control Electrical devices through
+voluntary eye-blinks.
+Link https://github.com/shamik94/EyeblinkDetection
+Social media Sentiment Analysis for Target
+• Applied Natural Language Processing (NLP) on data collected from social media platforms to improve sales and customer satisfaction.
+• Extracted product information from the positive sentiments and used them for recommendation of better performing and revenue generating product, responded with feedback forms to the users with negative sentiments to know more about their queries and improving the guest experiences.
+      

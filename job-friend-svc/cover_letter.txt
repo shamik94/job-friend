@@ -1,0 +1,6 @@
+Dear Hiring Team,
+
+I am excited to apply for the Senior Backend Engineer position at HelloFresh. With 5 years of experience in backend development, I have a proven track record of designing and building scalable distributed systems. My expertise in Python, Kubernetes, Kafka, and agile methodologies align perfectly with the requirements of the role. I am eager to contribute to HelloFresh's innovative projects and collaborate with a diverse team to drive success.
+
+Best regards,
+Shamik Mukhopadhyay

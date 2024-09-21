@@ -1,0 +1,40 @@
+About the job
+The role and the team
+
+You will join a cross-functional team that ensures HelloFresh communicates with customers effectively. As a Senior Backend Engineer, you will design, implement, and operate high-scale and fault-tolerant communication systems that can handle various types of messages like email, SMS, and push notifications, in addition to building solutions to execute campaigns at scale
+
+Interacting with frontend engineers, product managers and our teams around the world is very much part of our day-to-day, so communication skills are vital. We are looking for strong problem-solvers who can apply their engineering skills to a wide range of platforms and environments while also acting as an ambassador to coach team members and stakeholders.
+
+What You’ll Do
+
+Work in a cross-functional team typically comprising 6-10 people using a wide range of technologies and frameworks. Your team will be a place where your thoughts and opinions matter and your contributions will have a tremendous impact on the team's success.
+
+Take ownership of the architecture, design, development, deployment, and operations of our microservices, using DevOps practices, pair programming, and other cutting-edge methodologies 
+Be an active, solution-oriented member of autonomous, cross-functional agile teams collaborating with product owners, frontend Engineers, data engineers and business intelligence teams
+Having an in-depth understanding of HelloFresh’s core product and architecture, acting as an ambassador for software solutions offering support and mentorship to colleagues
+Work with state-of-the-art technologies like Kafka, RabbitMQ, Spark, Kubernetes, Istio, and more
+
+What You’ll Bring
+
+Expertise in end-to-end development processes using Python, including unit, integration & functional testing, application tuning/profiling, and continuous integration
+Solid backend experience working with an event-driven microservices architecture using Kubernetes, RabbitMQ, Kafka, CQRS pattern, etc.
+Experience working with relational databases, like PostgreSQL, and object stores, like AWS S3
+Demonstrable experience with agile methodologies, with a strong focus on delivery, lean thinking, and quick iterations
+You seek to continuously develop yourself and learn from your peers
+You thrive in the opportunity to collaborate and mentor team members, while also sharing practical knowledge and trends
+[Nice to have] Practical experience integrating marketing vendors like Salesforce Marketing Cloud, Braze, and HubSpot
+[Nice to have] Familiarity with notification services like AWS SNS
+
+Above all, we are looking for people who will make HelloFresh better. We believe there are many different ways of developing skills and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.
+
+What We Offer
+
+Join one of Europe's fastest-growing tech powerhouses in a dynamic phase of expansion.
+
+Immerse yourself in a diverse global community of 90+ nationalities.
+Enjoy a competitive compensation package that goes beyond the norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin relocation support, and a Hybrid working model.
+Elevate your lifestyle with exclusive discounts on your weekly HelloFresh box and office meals.
+Invest in your growth with a German language learning budget, and access to the HelloFresh Academy.
+Plus, we've got your well-being covered with mental health support, transportation perks, and working-parent-friendly benefits. From our 24/7 gym access,wellbeing platforms like Headspace and Spill, to sabbatical leave options, HelloFresh is not just a workplace; it's a lifestyle of perks and possibilities!
+
+#Decisions
