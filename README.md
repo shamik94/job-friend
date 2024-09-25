@@ -2,6 +2,9 @@
 
 This project consists of a FastAPI backend and a Next.js frontend, designed to work together to provide a seamless user experience. This README will guide you through the setup process, including how to configure the OpenAI API key and run the application using Docker.
 
+<img width="1274" alt="Screenshot 2024-09-25 at 12 39 31" src="https://github.com/user-attachments/assets/ec28e457-2e43-4cb0-837a-77c14e9ea82a">
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
